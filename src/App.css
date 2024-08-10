@@ -10,7 +10,7 @@ body {
   align-items: center; 
   background: linear-gradient(135deg, white, gray,black ); 
   background-size: 400% 400%; 
-  animation: gradientAnimation 5s ease infinite; 
+  animation: gradientanimation 5s ease infinite; 
 } 
 
 .calculator-grid { 
